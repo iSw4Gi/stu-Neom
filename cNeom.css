@@ -24,9 +24,60 @@ body {
 
 #theLine img {
   position: absolute;
- top: 0;
+ 
  margin:auto;
-  max-width: 100%;
-  max-height: 100%;
   display: block;
+  width: 99%;
+  height: 40%;
+}
+#hd1 {
+  font-size: 40px;
+  color: rgb(17, 13, 13);
+  position: absolute;
+  top: 5%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border: 3px;
+}
+#content {
+  position: absolute;
+  font-size: larger;
+  bottom: 8px;
+  left: 18px;
+  top: 43%;
+  color: aliceblue;
+}
+
+#LineP {
+  position: absolute;
+  font-size: larger;
+  bottom: 8px;
+  left: 2px;
+  top: 9%;
+  color: aliceblue;
+}
+
+#Area {
+  position: absolute;
+  font-size: larger;
+  bottom: 8px;
+  left: 20px;
+  top: 25%;
+  color: rgb(253, 253, 253);
+}
+
+#examble {
+  position: absolute;
+  left: 1640%;
+  top: -4%;
+  display: block;
+  margin: auto;
+}
+
+#site { 
+   position: absolute;
+  bottom: 5%;
+  left: 1%;
+  font-size: 20px;
+  
 }
