@@ -16,8 +16,8 @@ body {
 
 #bjTrojena{
   position: absolute;
-  left: 65%;
-  top: 5%;
+  left: 47%;
+  top: 11%;
   display: block;
   border-radius: 4px;
 }
@@ -29,7 +29,7 @@ body {
   border-radius: 4px;
   max-width: 26%;
   height: auto;
-  top: 55%;
+  top: 70%;
   left: 70%;
 }
 #hd1 {
@@ -77,10 +77,10 @@ body {
   position: absolute;
  margin: auto; 
   display: block;
-  width: 800%;
+  width: 600%;
   height: 60%;
-  top: auto;
-  left: 1000px; 
+  top: 30%;
+  left: 200%; 
   border-radius: 4px;
 }
 
