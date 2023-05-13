@@ -1,6 +1,6 @@
+
 body {
-  
-  
+ 
   background-color:#1e2d38;
 }
 #neomlogo {
@@ -14,23 +14,25 @@ body {
     left: 0px; 
 }
 
-#bjTrojena{
+#bjTrojena img{
   position: absolute;
-  left: 47%;
-  top: 11%;
+  max-width: 26%;
+  height: auto;
+  left: 41%;
+  top: 126px;
   display: block;
-  border-radius: 4px;
+  border-radius: 20px;
 }
 
 #theLine img {
   position: absolute;
 
   display: block;
-  border-radius: 4px;
+  border-radius: 20px;
   max-width: 26%;
   height: auto;
-  top: 70%;
-  left: 70%;
+  top: 126px;
+  left: 178px;
 }
 #hd1 {
   font-size: 40px;
@@ -52,11 +54,11 @@ body {
 
 #LineP {
   position: absolute;
-  font-size: larger;
-  bottom: 8px;
-  left: 2px;
-  top: 9%;
-  color: aliceblue;
+    font-size: larger;
+    bottom: 8px;
+    left: 2px;
+    top: 13%;
+    color: aliceblue;
 }
 
 #Area {
@@ -64,7 +66,7 @@ body {
   font-size: larger;
   bottom: 8px;
   left: 20px;
-  top: 25%;
+  top: 79%;
   color: rgb(253, 253, 253);
 }
 
@@ -75,18 +77,18 @@ body {
 #examble img{
  
   position: absolute;
- margin: auto; 
+  margin: auto;
   display: block;
   width: 600%;
   height: 60%;
-  top: 30%;
-  left: 200%; 
-  border-radius: 4px;
+  left:705px;
+  top: 81%;
+  border-radius: 17px;
 }
 
 #site { 
    position: absolute;
-  bottom: 5%;
+  bottom: -45%;
   left: 1%;
   font-size: 20px;
   
