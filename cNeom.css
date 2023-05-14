@@ -88,8 +88,29 @@ body {
 
 #site { 
    position: absolute;
-  bottom: -45%;
+  bottom: -55%;
   left: 1%;
   font-size: 20px;
   
+}
+#myTable {
+ position: absolute;
+ width: 84%;
+ left: 17%;
+ bottom: -45%;
+}
+
+#heading {
+  position: absolute;
+  width: 100%;
+  left: 201%;
+  bottom: 3%;
+}
+
+
+#para {
+  font-size: xx-large;
+  position: relative;
+  left: 47px;
+  bottom: -52%;
 }
