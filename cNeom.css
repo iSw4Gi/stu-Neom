@@ -1,53 +1,57 @@
+#border{
+  width: 100%;
+  height: 100%;
 
+}
 body {
  
   background-color:#1e2d38;
 }
 #neomlogo {
-  height: 120px;
-  width: 140px;
+  height: 120%;
+  width: 140%;
 }
 
 #neomlogo img{
     position: absolute;
-    top: 0px;
-    left: 0px; 
+    top: 0%;
+    left: 0%; 
 }
 
 #bjTrojena img{
   position: absolute;
   max-width: 26%;
   height: auto;
-  left: 41%;
-  top: 126px;
+  left: 50%;
+  top: 15%;
   display: block;
-  border-radius: 20px;
+  border-radius: 9%;
 }
 
 #theLine img {
   position: absolute;
-
   display: block;
-  border-radius: 20px;
+  border-radius: 9%;
   max-width: 26%;
   height: auto;
-  top: 126px;
-  left: 178px;
+  top: 15%;
+  left: 20%;
 }
+
 #hd1 {
-  font-size: 40px;
+  font-size: 40;
   color: rgb(255, 255, 255);
   position: absolute;
   top: 5%;
   left: 50%;
   transform: translate(-50%, -50%);
-  border: 3px;
+  border: 3%;
 }
 #content {
   position: absolute;
   font-size: larger;
-  bottom: 8px;
-  left: 18px;
+  bottom: 8%;
+  left: 18%;
   top: 43%;
   color: aliceblue;
 }
@@ -55,8 +59,8 @@ body {
 #LineP {
   position: absolute;
     font-size: larger;
-    bottom: 8px;
-    left: 2px;
+    bottom: 8%;
+    left: 2%;
     top: 13%;
     color: aliceblue;
 }
@@ -64,33 +68,33 @@ body {
 #Area {
   position: absolute;
   font-size: larger;
-  bottom: 8px;
-  left: 20px;
+  bottom: 8%;
+  left: 20%;
   top: 79%;
   color: rgb(253, 253, 253);
 }
 
 #examble {
-  height: 10px;
-  width: 10px;
+  height: 10%;
+  width: 10%;
 }
 #examble img{
  
   position: absolute;
   margin: auto;
   display: block;
-  width: 600%;
+  
   height: 60%;
-  left:705px;
-  top: 81%;
-  border-radius: 17px;
+  left: 381%;
+  top: 70%;
+  border-radius: 9%;
 }
 
 #site { 
    position: absolute;
   bottom: -55%;
   left: 1%;
-  font-size: 20px;
+  font-size: 20;
   
 }
 #myTable {
@@ -111,6 +115,6 @@ body {
 #para {
   font-size: xx-large;
   position: relative;
-  left: 47px;
+  left: 47%;
   bottom: -52%;
 }
