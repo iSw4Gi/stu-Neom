@@ -39,7 +39,7 @@ body {
 }
 
 #hd1 {
-  font-size: 40;
+  font-size: 297%;
   color: rgb(255, 255, 255);
   position: absolute;
   top: 5%;
@@ -72,6 +72,8 @@ body {
   left: 20%;
   top: 79%;
   color: rgb(253, 253, 253);
+  
+
 }
 
 #examble {
@@ -98,10 +100,12 @@ body {
   
 }
 #myTable {
- position: absolute;
- width: 84%;
- left: 17%;
- bottom: -45%;
+  position: absolute;
+  width: 189%;
+  left: 33%;
+  bottom: -45%;
+  padding: 120%;
+  display: table;
 }
 
 #heading {
@@ -118,3 +122,4 @@ body {
   left: 47%;
   bottom: -52%;
 }
+
